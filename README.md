@@ -18,7 +18,6 @@ Take a look at the detected images.
 ![Screenshot 2024-08-06 111951](https://github.com/user-attachments/assets/b5c88dac-89c0-4992-9285-6e7293f3cdd7)
 ![Uploading image.png…]()
 
-Conclusion
 This project not only showcased our technical skills and teamwork but also provided valuable insights into the practical applications of deep learning and computer vision. By developing an advanced object detection system, we demonstrated the potential of leveraging cutting-edge technologies to solve complex challenges in real-world scenarios. The code for the detection system is available in the Colab file, serving as a testament to our innovative approach and dedication to excellence in the field of robotics and computer vision.
 
 https://colab.research.google.com/drive/1y7bseeNPA541ckf8Ngy4FKJXfN_rqKSu#scrollTo=oos2RqUtBS7V
