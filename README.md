@@ -13,6 +13,10 @@ With our augmented and labeled dataset, we proceeded to train our model using YO
 Prediction and Detection
 For the prediction and detection phases, we chose Google Colab due to its user-friendly interface and powerful computational resources. We developed the detection code in Python, leveraging libraries such as ultralytics==8.0.196 to facilitate seamless model integration and execution. The result was a highly efficient detection system capable of real-time object identification and localization.
 The performance of our system was evaluated through rigorous testing, achieving an impressive accuracy of approximately 92% and a precision of about 83.8%.
+Take a look at the detected images.
+![Screenshot 2024-08-06 112005](https://github.com/user-attachments/assets/438d30cc-d33c-4a8b-b9cc-7be04574d594)
+![Screenshot 2024-08-06 111951](https://github.com/user-attachments/assets/b5c88dac-89c0-4992-9285-6e7293f3cdd7)
+![Uploading image.png…]()
 
 Conclusion
 This project not only showcased our technical skills and teamwork but also provided valuable insights into the practical applications of deep learning and computer vision. By developing an advanced object detection system, we demonstrated the potential of leveraging cutting-edge technologies to solve complex challenges in real-world scenarios. The code for the detection system is available in the Colab file, serving as a testament to our innovative approach and dedication to excellence in the field of robotics and computer vision.
